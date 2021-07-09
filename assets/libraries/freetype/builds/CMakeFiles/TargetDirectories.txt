@@ -1,0 +1,9 @@
+/home/harry30225/Downloads/sem 4 stuff/cg/Hello-World/libraries/freetype/builds/CMakeFiles/install/strip.dir
+/home/harry30225/Downloads/sem 4 stuff/cg/Hello-World/libraries/freetype/builds/CMakeFiles/install/local.dir
+/home/harry30225/Downloads/sem 4 stuff/cg/Hello-World/libraries/freetype/builds/CMakeFiles/install.dir
+/home/harry30225/Downloads/sem 4 stuff/cg/Hello-World/libraries/freetype/builds/CMakeFiles/package.dir
+/home/harry30225/Downloads/sem 4 stuff/cg/Hello-World/libraries/freetype/builds/CMakeFiles/package_source.dir
+/home/harry30225/Downloads/sem 4 stuff/cg/Hello-World/libraries/freetype/builds/CMakeFiles/freetype.dir
+/home/harry30225/Downloads/sem 4 stuff/cg/Hello-World/libraries/freetype/builds/CMakeFiles/edit_cache.dir
+/home/harry30225/Downloads/sem 4 stuff/cg/Hello-World/libraries/freetype/builds/CMakeFiles/rebuild_cache.dir
+/home/harry30225/Downloads/sem 4 stuff/cg/Hello-World/libraries/freetype/builds/CMakeFiles/list_install_components.dir

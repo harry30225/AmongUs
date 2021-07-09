@@ -1,0 +1,9 @@
+/home/harry30225/Downloads/sem 4 stuff/cg/2019101083_Assgn1/2019101083/build/CMakeFiles/rebuild_cache.dir
+/home/harry30225/Downloads/sem 4 stuff/cg/2019101083_Assgn1/2019101083/build/CMakeFiles/Hello-World.dir
+/home/harry30225/Downloads/sem 4 stuff/cg/2019101083_Assgn1/2019101083/build/CMakeFiles/edit_cache.dir
+/home/harry30225/Downloads/sem 4 stuff/cg/2019101083_Assgn1/2019101083/build/CMakeFiles/glad.dir
+/home/harry30225/Downloads/sem 4 stuff/cg/2019101083_Assgn1/2019101083/build/assets/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/harry30225/Downloads/sem 4 stuff/cg/2019101083_Assgn1/2019101083/build/assets/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/harry30225/Downloads/sem 4 stuff/cg/2019101083_Assgn1/2019101083/build/assets/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/harry30225/Downloads/sem 4 stuff/cg/2019101083_Assgn1/2019101083/build/assets/libraries/glfw/src/CMakeFiles/glfw.dir
+/home/harry30225/Downloads/sem 4 stuff/cg/2019101083_Assgn1/2019101083/build/assets/libraries/glfw/src/CMakeFiles/edit_cache.dir
